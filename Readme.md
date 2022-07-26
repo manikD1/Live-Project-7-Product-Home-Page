@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Product Home Page]()
+- [Product Home Page](https://live-proj-7-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-7-Product-Home-Page/blob/main/Actual-Screenshot.JPG)
