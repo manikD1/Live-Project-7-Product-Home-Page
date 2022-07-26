@@ -1,0 +1,180 @@
+/* font-family: 'Fredoka One', cursive; */
+/* font-family: 'Poppins', sans-serif; */
+
+
+body{
+    padding-left: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+nav>img{
+    height: 40px;
+}
+
+.nav-items{
+    display: flex;    
+}
+
+.nav-item{
+    font-size: 25px;
+    font-weight: 100;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 40px;
+}
+
+.active-item{
+    color: #FE5E35;
+    font-weight: bold;
+}
+
+.intro-section{
+    display: flex;
+}
+
+.headphone-div{
+    display: flex;
+    align-items:center;
+}
+
+.left-section>h3{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+.left-section h3 img{
+    height: 45px;
+}
+
+.left-section>h1{
+    font-size: 80px;
+    font-family: 'Fredoka One', cursive;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+.sub-headline{
+    margin-left: 100px;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.sub-headline img{
+    background-color: #FE5E35;
+    border-radius: 50px;
+    padding: 5px;
+    position: relative;
+    top: 8px;
+    right: 15px;
+}
+
+.sub-headlines h5{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+.text{
+    color: #717171;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    padding-top: 50px;
+    width: 750px;
+}
+
+.action-btns{
+    margin-top: 50px;
+}
+
+.action-btn{
+    margin-right: 30px;
+    background-color: #FE5E35;
+    color: #ffffff;
+    border: none;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 15px 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.headphone-div img:nth-child(3){
+    height: 550px;
+    position: relative;
+    left: 80px;
+    z-index: -1;
+}
+
+.discount{
+    height: 150px;
+    position: relative;
+    top: 120px;
+    left: 295px;
+    filter: drop-shadow(3px 8px rgba(0, 0, 0, 0.5));
+
+}
+
+.discount-content h4{
+    font-family: 'Fredoka One', cursive;
+    font-weight: 100;
+    font-size: 15px;
+    position: relative;
+    top: 145px;
+    left: 185px;
+    color: #ffffff;
+}
+
+.discount-content h1{
+    font-family: 'Fredoka One', cursive;
+    font-weight: 100;
+    font-size: 50px;
+    position: relative;
+    top: 105px;
+    left: 170px;
+    color: #ffffff;
+}
+
+
+.dots{
+    display: flex;
+    position: relative;
+    left: 510px;
+    bottom: 40px;
+    width: 50px;
+}
+
+.right-section button:nth-child(3){
+    position: relative;
+    left: 505px;
+    bottom: 40px;
+}
+
+
+.dot{
+    margin: 0 10px;
+}
+
+.dot::before{
+    content: "\2022";
+    font-size: 120px;
+}
+
+.yellow-dot{
+    color: #FBD104;
+}
+
+.tomato-dot{
+    color: #FE5E35;
+}
+
+.black-dot{
+    color: #000000;
+}
