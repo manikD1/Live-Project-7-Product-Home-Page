@@ -37,7 +37,7 @@
 ## **🖥️ Ideal Display Resolution 🖥️**
 
 - 1920 * 1080
-- Currently *Non-responsive.*
+- *Fully Responsive.*
 
 &nbsp;
 ***
@@ -46,5 +46,10 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
-![](https://github.com/manikD1/Live-Project-7-Product-Home-Page/blob/main/Actual-Screenshot.JPG)
+## **📷 Post Designing Screenshots 📷**
+
+![](https://github.com/manikD1/Live-Project-7-Product-Home-Page/blob/main/Screenshots/Actual-Screenshot.JPG)
+
+![](https://github.com/manikD1/Live-Project-7-Product-Home-Page/blob/main/Screenshots/Actual-Screenshot-1.JPG)
+
+![](https://github.com/manikD1/Live-Project-7-Product-Home-Page/blob/main/Screenshots/Actual-Screenshot-2.JPG)
